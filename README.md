@@ -27,3 +27,11 @@ git status
 * modified: Archivos que se encuentran en el repositorio (Están siendo seguidos por GIT) pero difieren con lo que se encuentra actualmente en el WD
 * staged: Archivos que están en el area temporal/intermedia
 
+# Agrego al área de confirmación el archivo/archivos 
+
+```sh
+git add <nombre-archivo>
+git add <nombre-archivo> <nombre-archivo> <nombre-archivo>
+git add . # Agrega todos los archivos.
+```
+
