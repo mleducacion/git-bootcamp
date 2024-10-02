@@ -47,4 +47,11 @@ git commit -m "mensaje descriptivo de lo que tiene el commit"
 git commit --amend -m "el mensaje corregido"
 ```
 
+# Como el timeline de commits
+
+```sh
+git log # versión larga
+git log --oneline # versión corta
+```
+
 
